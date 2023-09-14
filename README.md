@@ -23,5 +23,6 @@ Frontend, UI/UX: Таловиков Эдуард tg:@Eduard_Talov
 
 Backend: Кромов Даниил tg:@KromovD
 
+
 ### Ссылка на Google docs:
 https://docs.google.com/document/d/1CgoaKwDhUmKx9fGguTG3_jN_K7NfkO9rgrtjl0TQKtY/edit?usp=sharing
