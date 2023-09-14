@@ -20,6 +20,7 @@
 
 ### Команда:
 Frontend, UI/UX: Таловиков Эдуард tg:@Eduard_Talov
+
 Backend: Кромов Даниил tg:@KromovD
 
 ### Ссылка на Google docs:
